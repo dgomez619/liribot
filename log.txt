@@ -1,0 +1,293 @@
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+4
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+5
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+6
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+7
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+8
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: 4Play
+preview song: null
+album: TM104: The Legend of the Snowman
+artist(s): Jeezy
+*****************************
+**********SONG INFO*********
+11
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+12
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+13
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+14
+song name: 4Play
+preview song: null
+album: TM104: The Legend of the Snowman
+artist(s): Jeezy
+*****************************
+**********SONG INFO*********
+15
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+16
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+17
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+18
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+19
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+0
+song name: El Cantante
+preview song: null
+album: Comedia
+artist(s): Héctor Lavoe
+*****************************
+**********SONG INFO*********
+1
+song name: El Cantante
+preview song: https://p.scdn.co/mp3-preview/e6834c897800ef0145c429f69a48d1cfae309b9a?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+2
+song name: Aguanile
+preview song: https://p.scdn.co/mp3-preview/4e1e0856375c7f2abb50927712b8aa71a33c2e1a?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+3
+song name: El Día de Mi Suerte
+preview song: https://p.scdn.co/mp3-preview/ef062f1ad7f192bd7a2c8e6b62e0ed1f3c65ab6c?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+4
+song name: Mi Gente
+preview song: https://p.scdn.co/mp3-preview/b259ed164e2e788af53af7596a5fae49490123d9?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+5
+song name: El Cantante
+preview song: https://p.scdn.co/mp3-preview/c84a6b2594b99d6bfa1d2094119e33c9c8af5076?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Una Noche Con Rubén Blades
+artist(s): Jazz At Lincoln Center Orchestra
+*****************************
+**********SONG INFO*********
+6
+song name: Escandalo - Bolero Version
+preview song: https://p.scdn.co/mp3-preview/18c3f930ae8dc536ec87764af528170ddcf93076?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+7
+song name: El Cantante
+preview song: https://p.scdn.co/mp3-preview/9b4428a9c745a0bdf10de1f848f2cacf93e70995?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: El Cantante
+artist(s): Los Cachorros de Juan Villarreal
+*****************************
+**********SONG INFO*********
+8
+song name: Todo Tiene Su Final
+preview song: https://p.scdn.co/mp3-preview/dbdd16108fd1e86e54f9126c90c4506a9ca0f4d1?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+9
+song name: Qué Lío
+preview song: https://p.scdn.co/mp3-preview/1c29c65cae71da7179eb3bbbadf3860ad3b1735a?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+10
+song name: Che Che Colé
+preview song: https://p.scdn.co/mp3-preview/bb1fa8823e00feca00ef049000467e62ea092743?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+11
+song name: El Cantante
+preview song: null
+album: Greatest Hits
+artist(s): Rubén Blades
+*****************************
+**********SONG INFO*********
+12
+song name: Algo contigo
+preview song: https://p.scdn.co/mp3-preview/c8f0b336742d48c997624cd4b67aca8c3deff4b1?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: El cantante
+artist(s): Andrés Calamaro
+*****************************
+**********SONG INFO*********
+13
+song name: Quítate Tú Pa Ponerme Yo
+preview song: https://p.scdn.co/mp3-preview/ec80263be3f3a2e24b82050734d8f9da4844f27a?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Marc Anthony
+*****************************
+**********SONG INFO*********
+14
+song name: El Cantante del Amor
+preview song: https://p.scdn.co/mp3-preview/cc4cb7b32b7a802cbb8fe7a715295577c4541fed?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: The Last Kiss (Latin Edition)
+artist(s): El Zafiro
+*****************************
+**********SONG INFO*********
+15
+song name: Estadio Azteca
+preview song: https://p.scdn.co/mp3-preview/8118a3993c55b178aee01908e8e2e6a908088d99?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: El cantante
+artist(s): Andrés Calamaro
+*****************************
+**********SONG INFO*********
+16
+song name: Toma De Mí
+preview song: https://p.scdn.co/mp3-preview/1b20e30357c910c2347d7c6d9c5bf672d5330880?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Marc Anthony "El Cantante" OST
+artist(s): Jennifer Lopez
+*****************************
+**********SONG INFO*********
+17
+song name: Te Quiero
+preview song: https://p.scdn.co/mp3-preview/5c890c76fae1a596b64735b951d717bdd88f6a72?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: Manuel - El Cantante de los Raperos
+artist(s): Vakero
+*****************************
+**********SONG INFO*********
+18
+song name: De Tanto Amarte
+preview song: https://p.scdn.co/mp3-preview/06aba6f7c70831a3cdd0402ca35ed790200f8da5?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: El Cantante
+artist(s): Germán Montero
+*****************************
+**********SONG INFO*********
+19
+song name: El Cantante
+preview song: https://p.scdn.co/mp3-preview/edf20a96c8bcccaed000929ef721a314c2c28236?cid=3ca14eeb76af4988949e0bd3ff7ea709
+album: 40 Corridos Bravos
+artist(s): Los Cachorros de Juan Villarreal
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
